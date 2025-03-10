@@ -1,0 +1,1 @@
+let student :{name : string , age : number} = { name: 'Alice', age: 20 };
